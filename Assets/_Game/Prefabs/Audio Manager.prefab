@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3463247365500079605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4892612512203103541}
+  - component: {fileID: 8548288802081051373}
+  - component: {fileID: 3870043545388889784}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4892612512203103541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3463247365500079605}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8548288802081051373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3463247365500079605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8191be5f7f455564e81616545172d15b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StaticSounds:
+  - name: 1
+    clip: {fileID: 8300000, guid: 3f6bde2590b962f4a9c0134d5feba58d, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 2
+    clip: {fileID: 8300000, guid: aacb98e058688f040bb5c15b29bea52b, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 3
+    clip: {fileID: 8300000, guid: 0c96dd460318a7644b524bd7d81232f0, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 4
+    clip: {fileID: 8300000, guid: 1677121d9c2783c46be299382f206238, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 5
+    clip: {fileID: 8300000, guid: 9290ffcdddeb51c44a87e52d96ce48c7, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 6
+    clip: {fileID: 8300000, guid: cdb3cd6d983435041885778b8c37f042, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 7
+    clip: {fileID: 8300000, guid: a94060ef77f74ea4da3c2479ccc36b3b, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 8
+    clip: {fileID: 8300000, guid: d7daa930135a1cb40bf89183ccba925e, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 9
+    clip: {fileID: 8300000, guid: 849a1ee29f6a8424a94a6ed974649848, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: 10
+    clip: {fileID: 8300000, guid: 774d40160dbf4e945baf8aa3895c76e6, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Selector
+    clip: {fileID: 8300000, guid: 8922f5710a41aaa46b1673f8580f6b7f, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Button
+    clip: {fileID: 8300000, guid: 3339606647f01844f882e64d4cb3d28a, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Back
+    clip: {fileID: 8300000, guid: 67347ec355d9ccc4d9773474d04b49ea, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Wrong Password
+    clip: {fileID: 8300000, guid: 87f44bfb8740c8a41925494b8927c1be, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Game Sound
+    clip: {fileID: 8300000, guid: d9bc629c97f16b64a982bd70ef2a2186, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Won
+    clip: {fileID: 8300000, guid: cd0adee5e598c884daab22b633905648, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: home screen
+    clip: {fileID: 8300000, guid: 7a34e68b3cccd2d438552f2a9f26ae43, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: type1
+    clip: {fileID: 8300000, guid: 892af62b9e16bef48bf86eb1f8903846, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: type2
+    clip: {fileID: 8300000, guid: 8ce569f4589ae2446b5de3db4bbf22ce, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: urdugames
+    clip: {fileID: 8300000, guid: ff209d438e581d24eb49274e044d6684, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  DynamicSounds:
+  - name: A
+    clip: {fileID: 8300000, guid: 1922abb82c9348842a1bdf145ed58559, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: B
+    clip: {fileID: 8300000, guid: 12295172bd074c3489739ef350c61ef0, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: C
+    clip: {fileID: 8300000, guid: 5f6fd5f95591ab04dac687f4060c1a4d, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: D
+    clip: {fileID: 8300000, guid: d5b2799862476404c94e5073c2dcc486, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: E
+    clip: {fileID: 8300000, guid: 102a9ff1baf1db14ca0049d0fe7fc473, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: F
+    clip: {fileID: 8300000, guid: 328505a01360bf84da1c61a258b93ba1, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: G
+    clip: {fileID: 8300000, guid: 9d563c37f99299c4992bbef1ed0656c6, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: H
+    clip: {fileID: 8300000, guid: d45a522f570b41741a5462f265bb0aab, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: I
+    clip: {fileID: 8300000, guid: b32fd07dd7c791d4092ba74a42104633, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: J
+    clip: {fileID: 8300000, guid: 313bbf5176e104140bb355e2d5d51299, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: K
+    clip: {fileID: 8300000, guid: 0e612b1c12d9c084397daebe84d8e4e4, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: L
+    clip: {fileID: 8300000, guid: 6e6b529a5cc6b0944bed462a3b8ab3a6, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: M
+    clip: {fileID: 8300000, guid: 76d6306ba3011ec41bbc3f5e6cce5c35, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: N
+    clip: {fileID: 8300000, guid: 1f9c5032ae88b6846b13704344aa1b71, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: O
+    clip: {fileID: 8300000, guid: 0ee8d6364f966324e98c9b1266b8c888, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: P
+    clip: {fileID: 8300000, guid: f21ff270e96b3f64f816d3f62caaf385, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Q
+    clip: {fileID: 8300000, guid: 576c8c04680862148902ab780f344508, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: R
+    clip: {fileID: 8300000, guid: b9391d0af2f71f946b664d6b3226fb9c, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: S
+    clip: {fileID: 8300000, guid: 9abde5347b5e833488a9be7bbdd55569, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: T
+    clip: {fileID: 8300000, guid: 5ea44c71ff64d4a479a1df1843548251, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: U
+    clip: {fileID: 8300000, guid: f1c47c092e2b72f42beeafdcb3fb73c4, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: V
+    clip: {fileID: 8300000, guid: f7f80dcbf215f144a898f4940be089f5, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: W
+    clip: {fileID: 8300000, guid: 94465759ecb3afc44871d21b51d39a9c, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: X
+    clip: {fileID: 8300000, guid: ff123634a5de7c14bb8235f06f0bfbf1, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Y
+    clip: {fileID: 8300000, guid: e9d44ae07eddf0c4c84441172b246777, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Z
+    clip: {fileID: 8300000, guid: 87402fbd12f298e40928802c31b35081, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+--- !u!114 &3870043545388889784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3463247365500079605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9c8b87c9c19324f867f32a768128a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

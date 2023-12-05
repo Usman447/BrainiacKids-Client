@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/Starting/Start.unity
+    guid: 8df7bb2c1367e1149bc96088685cbcff
+  - enabled: 1
+    path: Assets/_Game/Scenes/Login Scene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Game/Scenes/Students/Main menu.unity
+    guid: 5acf9399a5748d54b9c8113c6ed3d562
+  - enabled: 1
+    path: Assets/_Game/Plugins/Urdu/Haroof - e - Tahaji/Scene/Haroof Tahaji.unity
+    guid: d429a3ab260cb4943b1065d9f360afae
+  - enabled: 1
+    path: Assets/_Game/Plugins/Urdu/Haroof Likhiye/Scene/Haroof Likhiye.unity
+    guid: 97b45df3ab72ea1468c917e210caae53
+  - enabled: 1
+    path: Assets/_Game/Plugins/Urdu/Haroof Milaye/Scene/Haroof Milaye.unity
+    guid: 01d7e96826448f043af1f4cdb65d358a
+  - enabled: 1
+    path: Assets/_Game/Plugins/English/Guess the Letter/Scene/Guess Letter.unity
+    guid: 77662795b769a6940bf67532ecfbb65b
+  - enabled: 1
+    path: Assets/_Game/Plugins/English/Match Uppercase And LowerCase/Scene/Alphabets
+      Matching Scene.unity
+    guid: f827e5acfcf3d5643ad89345726da1a4
+  - enabled: 1
+    path: Assets/_Game/Plugins/English/Pop the letter/Scene/Pop the letter.unity
+    guid: 031462c032d4c54448cce140ad1efbd7
+  - enabled: 1
+    path: Assets/_Game/Plugins/English/Tracing/Scene/Tracking Scene.unity
+    guid: 9c06ff789ad9ccc4fa244598c0c10d97
+  - enabled: 1
+    path: Assets/_Game/Plugins/Maths/Addition And Subtraction/Scene/Addition And
+      Substraction.unity
+    guid: b202f4f3bee7c904babd450aabf0ecc2
+  - enabled: 1
+    path: Assets/_Game/Plugins/Maths/Counting Game/Scene/Counting.unity
+    guid: d897afb45b0f7484689e912e7ec85299
+  - enabled: 1
+    path: Assets/_Game/Plugins/Maths/Matching Numbers With Objects/Scene/Matching
+      Number.unity
+    guid: 1c696b817a90e6a4db31445d169fe3e8
+  - enabled: 1
+    path: Assets/_Game/Plugins/Maths/Number Sorting/Scene/Number Sorting.unity
+    guid: d3703dc878e8d1c41a7a34556786be69
+  - enabled: 1
+    path: Assets/_Game/Plugins/Final Panel/Scene/Result Panel Scene.unity
+    guid: abc3989819aa0564bb6ce481cf497cf1
+  m_configObjects: {}

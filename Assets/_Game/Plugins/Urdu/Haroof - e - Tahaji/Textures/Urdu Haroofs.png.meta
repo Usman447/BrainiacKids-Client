@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 1ae296be55025fc4fb4f577e6dcd91bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Urdu Haroofs_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3596
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df5d40f73e1764da4b8e0e1f6ef115
+      internalID: 1801531062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3569
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38601c94e8a1b48a1be2c416dcbf63
+      internalID: 2074911590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 3563
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2f69e780f2d14c92a600edef824c6
+      internalID: 1914846619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_3
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3561
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b58a5de6960e7448d231649c0c1077
+      internalID: -80259271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_5
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3583
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a2b0beb32cc7d49ac395a975853e31
+      internalID: 164715829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_6
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 3563
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0c37868cdda2b46a411b748650d76a
+      internalID: 39977194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_7
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 3503
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12b6506700f3245bde825a398f263c
+      internalID: 113426660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_8
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 3510
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea48e75220959b49b5a0ce9c2877571
+      internalID: 249146743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_4
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 3572
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670a50c0b1d0a24899084bdf8cc1c35
+      internalID: -2011406793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alif
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 3583
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23fd671afc6f54f9391a88bde19ea2
+      internalID: -1558407823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2809
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086071bf6e113a74e943607d17627923
+      internalID: 1154603393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2826
+        width: 300
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a0acff036605448858f74a499ec00
+      internalID: 1790963150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2805
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a725a0e44c38b47b156cf4f89d295a
+      internalID: 1779558742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_13
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2829
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77f2f1198c30f42a0fc1002bc1ef6b
+      internalID: 647912800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_14
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2823
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59a386f4d0e8d54d8f9bd5463c3e797
+      internalID: 42283303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_15
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2829
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370cf6ecaaed48d4da7a493d0cf1caf2
+      internalID: 1369349796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_16
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2798
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51237f2880264f7439f8101415b7c65f
+      internalID: 1029072527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_17
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2808
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565c84fdde5ade499d585ff922180b1
+      internalID: 837990823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_18
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 2827
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b176d196c88048b7a5e76f5ed84fc
+      internalID: -1243531615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_19
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 2803
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0457c60ed46ccd4083defe644b774cd
+      internalID: 1979507286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2058
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e0c797e6c0e04b96905cb3dd19943
+      internalID: 1469997380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2094
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c01621c6f2ab4b888e45eeb2979ac
+      internalID: -9973815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_22
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2094
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851f2c97eb77e942851ba7497b705bf
+      internalID: -1358997883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2053
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76be09f55ef75a4f818756fafb8d656
+      internalID: -1055006221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_24
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 2055
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30350f16174ea54499f50cd4c683b0f
+      internalID: -1743572177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_25
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2056
+        width: 300
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302acbd85946b7a40989e17343a95f3d
+      internalID: 290904422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_26
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2039
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a39ebc7cf5a2d4bbe50df4abb8c204
+      internalID: -1113444205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_27
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2053
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705eb815e03783042872754384c8c551
+      internalID: -1408441217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_28
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 2045
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5067c40dbb6c49953ae8dd70b0043
+      internalID: 553835324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_29
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 2058
+        width: 300
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b570c15a1890cf498bd01e3341a96bf
+      internalID: 814837062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_30
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1247
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89edc76c7c35edf4a858d6d3da1c779a
+      internalID: -583402744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_31
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1263
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d058269cc909408b39d35e87462f0
+      internalID: -1103694267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_32
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1240
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17404feb5a15cfa46be9134c014d6dec
+      internalID: 1075564710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_33
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1236
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315d6908f83f934e896b11cb10abf24
+      internalID: -682277860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_34
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1233
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089d7683f571a74c84b0b9b3078136c
+      internalID: 1246742290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_35
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 1260
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcab084ec71ba04c9f98f87ca7432bb
+      internalID: -476146775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_36
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1260
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecadb2a57b7c354f8fd195e626194b2
+      internalID: -1371767076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_37
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 1206
+        width: 288
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36e901a57679e4ebe1cb8062ad6c30
+      internalID: 1620434917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urdu Haroofs_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1260
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5fb18c615e3645813dc2949d8b979
+      internalID: 724613851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Urdu Haroofs_0: 1801531062
+      Urdu Haroofs_1: 2074911590
+      Urdu Haroofs_10: 837990823
+      Urdu Haroofs_11: -1243531615
+      Urdu Haroofs_12: 1979507286
+      Urdu Haroofs_13: 1469997380
+      Urdu Haroofs_14: -9973815
+      Urdu Haroofs_15: -1358997883
+      Urdu Haroofs_16: -1055006221
+      Urdu Haroofs_17: -1743572177
+      Urdu Haroofs_18: 290904422
+      Urdu Haroofs_19: -1113444205
+      Urdu Haroofs_2: 1914846619
+      Urdu Haroofs_20: -1408441217
+      Urdu Haroofs_21: 553835324
+      Urdu Haroofs_22: 814837062
+      Urdu Haroofs_23: -583402744
+      Urdu Haroofs_24: -1103694267
+      Urdu Haroofs_25: 1075564710
+      Urdu Haroofs_26: -682277860
+      Urdu Haroofs_27: 1246742290
+      Urdu Haroofs_28: -476146775
+      Urdu Haroofs_29: -1371767076
+      Urdu Haroofs_3: 1154603393
+      Urdu Haroofs_30: 1620434917
+      Urdu Haroofs_31: 979047196
+      Urdu Haroofs_32: -800616493
+      Urdu Haroofs_33: -243529775
+      Urdu Haroofs_34: 823758029
+      Urdu Haroofs_35: -380600167
+      Urdu Haroofs_36: 1275318081
+      Urdu Haroofs_37: -1252831942
+      Urdu Haroofs_38: -1578343607
+      Urdu Haroofs_39: 511730218
+      Urdu Haroofs_4: 1790963150
+      Urdu Haroofs_40: 1446460171
+      Urdu Haroofs_41: 675659260
+      Urdu Haroofs_42: -1558407823
+      Urdu Haroofs_43: 249146743
+      Urdu Haroofs_44: 113426660
+      Urdu Haroofs_45: 39977194
+      Urdu Haroofs_46: 164715829
+      Urdu Haroofs_47: -2011406793
+      Urdu Haroofs_5: 1779558742
+      Urdu Haroofs_6: 647912800
+      Urdu Haroofs_7: 42283303
+      Urdu Haroofs_8: 1369349796
+      Urdu Haroofs_9: 724613851
+      alif: -1558407823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
